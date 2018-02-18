@@ -19,10 +19,10 @@ Permet de générer un maillage sur un domaine 2D définit par les paramètres s
 - Nombre d'éléments suivant chaque axe.
 
 _**Exemples**_
-![maillage.png](img\maillage.png)
+![maillage.png](https://i.imgur.com/ttXTYLo.png)
 
 
-![maillage2.png](img\maillage2.png)
+![maillage2.png](https://i.imgur.com/STx4gEN.png)
 
 ### Quadrature
 Fonction qui donne les poids et les noeuds de Gauss en 2D suivant le type d'élément et le nombre de points de calcul de l'intégration numérique de Gauss.
@@ -54,10 +54,10 @@ Script principal du programme, contient toutes les entrées et l'enchainement de
 
 ### Résultats
 - Approchée
-![approchee.png](img\approchee.png)
+![approchee.png](https://i.imgur.com/21XqFnm.png)
 
 - Exacte
-![exacte.png](img\exacte.png)
+![exacte.png](https://i.imgur.com/5AE0CRf.png)
 
 ### Evaluation de l'érreur
 |Nombre d'éléments total |Erreur norme L2          |Erreur relative        |
