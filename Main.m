@@ -16,8 +16,8 @@ Y1 = -1;
 Y2 = 1;
 elementTypeIndex = 1;
 nGauss = 4;
-NX = 10;
-NY = 10;
+NX = 64;
+NY = 64;
 %################### HARDCODED ###################
 
 
