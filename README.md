@@ -1,4 +1,8 @@
 # MEF Elements de type NQ1/NQ2
+![GitHub](https://img.shields.io/github/license/rezrazi/FEM-2D-NQ.svg?style=plastic) 
+![GitHub release](https://img.shields.io/github/release/rezrazi/FEM-2D-NQ.svg?style=plastic)
+
+
 ## Introduction
 Les fichiers présents sur ce dépôt permettent d'évaluer la solution  d'un problème mis sous forme d'équation différentielle sur un domaine de dimension 2D définit par sa frontière de telle sorte que la solution est nulle sur celle ci.
 L'utilisateur sera requis d'entrer les valeur de sa choix pour la configuration initiale du script, qui serviront à déterminer le type d'éléments finis à utiliser (NQ1/NQ2), le nombre de points de Gauss pour l'intégration numérique et le nombre d'éléments suivant chaque axe du domaine 2D.
